@@ -18,8 +18,7 @@ Throughout this journey, I have practised writing SQL queries, creating and mana
 - Stored Procedures
 - Transaction Applications
 - Data Generator Applications
-- Scripted Calculation Views
-- Core Data Services (CDS)
+- Calculation Views ()
 - Data Warehousing Concepts
 
 ### 🎯 Objective
