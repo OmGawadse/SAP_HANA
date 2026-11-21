@@ -1,1 +1,0 @@
-#  SAP HANA PROJECT Materials
