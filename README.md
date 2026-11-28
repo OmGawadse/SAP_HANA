@@ -31,4 +31,4 @@ Applying these concepts to build **SAP HANA Sales & Customer Analytics**, a hand
 
 This repository will continue to evolve as I explore and implement more SAP HANA concepts.
 
-**Learning by doing. Building by practising. Growing with SAP HANA!** 💻🔥
+**Learning by doing. Building by practicing. Growing with SAP HANA!!** 💻🔥
