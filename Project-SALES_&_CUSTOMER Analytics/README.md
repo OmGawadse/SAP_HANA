@@ -155,5 +155,5 @@ The discounted sales value includes all recorded order statuses.
 
 Successfully developed an end-to-end SAP HANA analytics solution that integrates database development, data validation, reusable business logic and multidimensional data modeling to generate meaningful business insights.
 
-## Author
+## Author:
 **Om Gawadse**
